@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Weidec33
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Python and Java
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...christopher.weide27@gmail.com
 
